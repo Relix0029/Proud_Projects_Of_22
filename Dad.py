@@ -8,7 +8,7 @@ def Dad_Jokes():
     header = termcolor.colored(header, color="magenta", attrs=["blink"])
     print(header)
 
-    # 
+    # this is the api website
     url = "https://icanhazdadjoke.com/search"
     search = ("y")
 
